@@ -78,9 +78,9 @@ A segunda regra é determinar quantos dias por semana o usuário tem disponível
 
 | **Imagem**                                                     | **Dias por Semana** | **Tipo de Treino Sugerido** |
 | -------------------------------------------------------------- | ------------------- | --------------------------- |
-| <img src=".github/assets/calendar.png" width="50" height="50"> | 1 dia               | Treino Full Body            |
-| <img src=".github/assets/calendar.png" width="50" height="50"> | 3 dias              | Treino ABC                  |
-| <img src=".github/assets/calendar.png" width="50" height="50"> | 5 dias              | Treino ABCDE                |
+| <img src=".github/assets/calendar.png" width="50" height="50"> | 1 dia               | Treino Full Body. Realizar um treino full body, priorizando exercícios compostos que ativem vários grupos musculares.|
+| <img src=".github/assets/calendar.png" width="50" height="50"> | 3 dias              | Treino ABC. Dividir o treino em ABC, garantindo um equilíbrio entre força e resistência.|
+| <img src=".github/assets/calendar.png" width="50" height="50"> | 5 dias              | Treino ABCDE. Utilizar o modelo ABCDE para maximizar o foco em grupos musculares específicos e permitir recuperação adequada.|
 
 - **Full Body**: Treino que trabalha o corpo todo em uma única sessão.
 - **ABC**: Divisão do treino em três dias, cada um focado em grupos musculares diferentes.
