@@ -94,20 +94,20 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 
 | **Imagem**                                                       | **Tipo de Treino** | **Descrição**                                                                                                 |
 | ---------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------- |
-| <img src=".github/assets/dumbells.png" width="50%" height="50%"> | **Funcional**      | Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.                                |
-| <img src=".github/assets/4760665.png" width="50%" height="50%">  | **Maquinário**     | Exercícios feitos em máquinas, com foco em isolar grupos musculares.                                          |
-| <img src=".github/assets/barr.png" width="50%" height="50%">     | **Peso Livre**     | Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente. |
-| <img src=".github/assets/cardio.png" width="50%" height="50%">   | **Cardio**         | Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.                     |
-| <img src=".github/assets/hiit.png" width="50%" height="50%">     | **HIIT**           | Treinos intervalados de alta intensidade, ótimos para queima de gordura.                                      |
+| <img src=".github/assets/dumbells.png" width="50%" height="50%"> | **Funcional**      | Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais. Inclua exercícios como agachamentos, flexões e kettlebell swings.|
+| <img src=".github/assets/4760665.png" width="50%" height="50%">  | **Maquinário**     | Exercícios feitos em máquinas, com foco em isolar grupos musculares. Utilize máquinas para leg press, puxada na barra e extensões de tríceps.|
+| <img src=".github/assets/barr.png" width="50%" height="50%">     | **Peso Livre**     | Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente.Halteres e barras para exercícios como supino, levantamento terra e remadas.|
+| <img src=".github/assets/cardio.png" width="50%" height="50%">   | **Cardio**         | Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo. Alternativas como correr, nadar ou pedalar.|
+| <img src=".github/assets/hiit.png" width="50%" height="50%">     | **HIIT**           | Treinos intervalados de alta intensidade, ótimos para queima de gordura. Combine exercícios como burpees, saltos e corrida em intervalos curtos.|
 
 ---
 
 ## 🛠️ Regras de negócio
 
-1. **Identifique seu biotipo corporal** consultando a seção de biotipos.
-2. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
-3. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
-4. Use o prompt do assistente para gerar um plano de treino personalizado.
+1. **Identifique seu biotipo corporal** consultando a seção de biotipos. O usuário deve escolher o biotipo que melhor descreve seu corpo atual.
+2. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado. Com base na resposta, o assistente sugere o tipo de treino mais apropriado.
+3. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos. O usuário escolhe o tipo de exercício que mais gosta, e isso influencia o plano final.
+4. Use o prompt do assistente para gerar um plano de treino personalizado. O assistente utiliza as respostas para criar um plano de treino adequado, incluindo detalhes sobre exercícios, séries e repetições.
 
 ---
 
@@ -121,3 +121,18 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+Olá! Estou aqui para ajudar a montar seu treino ideal. Para isso, por favor, responda às seguintes perguntas:
+
+1. **Qual é o seu biotipo corporal?** (Ectomorfo, Mesomorfo, Endomorfo)
+2. **Quantos dias por semana você pode treinar?** (1, 3 ou 5 dias)
+3. **Qual tipo de exercício você prefere?** (Funcional, Maquinário, Peso Livre, Cardio, HIIT)
+4. **Qual é o seu principal objetivo?** (Perda de peso, Ganho de massa muscular, Tonificação)
+
+Com base nas suas respostas, vou gerar um plano de treino personalizado para você! Vamos começar?
+
+## Considerações Finais
+
+Esse assistente não apenas gera um treino, mas também fornece uma experiência interativa que se adapta às preferências e necessidades do usuário. 
+É uma excelente maneira de promover a personalização no treinamento físico!
+
