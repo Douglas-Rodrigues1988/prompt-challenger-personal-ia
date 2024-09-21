@@ -50,21 +50,21 @@ A primeira regra para personalizar o treino é determinar o biotipo corporal do 
       <img src=".github/assets/ectomorph.jpg" width="50%" height="50%">
     </td>
     <td><strong>Ectomorfo</strong></td>
-    <td>Corpo mais magro, difícil ganhar peso e massa muscular.</td>
+    <td>Corpo mais magro, difícil ganhar peso e massa muscular. Foque em treinos de força e hipertrofia, com mais volume e menos repetições.</td>
   </tr>
   <tr>
     <td style="text-align: center;">
       <img src=".github/assets/mesomorph.jpg" width="50%" height="50%">
     </td>
     <td><strong>Mesomorfo</strong></td>
-    <td>Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.</td>
+    <td>Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura. Varie entre treinos de força e resistência, adaptando conforme objetivos específicos.</td>
   </tr>
   <tr>
     <td style="text-align: center;">
       <img src=".github/assets/endmorph.jpg" width="50%" height="50%">
     </td>
     <td><strong>Endomorfo</strong></td>
-    <td>Corpo com tendência a acumular gordura, maior dificuldade em perder peso.</td>
+    <td>Corpo com tendência a acumular gordura, maior dificuldade em perder peso. Inclua treinos de cardio e força, focando na queima de gordura e tonificação.</td>
   </tr>
 </table>
 
